@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455998061 source:c:\users\julian\documents\c\c-directed-graph\main.c
+	<stdio.h>
+	<stdlib.h>
+
