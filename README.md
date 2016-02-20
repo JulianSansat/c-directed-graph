@@ -1,7 +1,7 @@
 # c-directed-graph
 linked list implementation of directed graph
 
-To Do
-GraphAddVertex()
-GraphAddEdge()
-GraphIsReachable()
+###To Do
+- GraphAddVertex()
+- GraphAddEdge()
+- - GraphIsReachable()
